@@ -1,0 +1,333 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+.main-builder {
+	padding: 68px 0px;
+}
+.portfolio-content h4 {
+	font-size: 20px;
+}
+.portfolio-icon {
+	left: 74%;
+	top: 4%;
+}
+.testimonial-img img {
+	width: 100%;
+}
+.owl-carousel .owl-item img {
+    width: auto;
+}
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.owl-carousel .owl-item img {
+	width: auto;
+}
+.slider-content h2 {
+	font-size: 60px;
+}
+.cta-area h3 {
+	font-size: 26px;
+}
+.cta-btn {
+	position: absolute;
+	left: -10px;
+}
+.service-img img {
+	width: 100%;
+}
+.service-content h4 {
+	margin-top: 25px;
+}
+.builder-image img {
+	width: 100%;
+}
+.builder-image a {
+	left: 83%;
+}
+.builder-content h3 {
+	font-size: 15px;
+}
+.builder-content p {
+	width: 100%;
+}
+.main-builder {
+    padding: 0px 0px;
+}
+.builder-content.d-flex.mb-45 {
+	margin-bottom: 0;
+	margin-top: 40px;
+}
+p {
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 17px;
+	color: #7e7e7e;
+	margin-bottom: 15px;
+}
+.portfolio-img img {
+    width: 100%;
+}
+.portfolio-icon {
+	left: 74%;
+}
+.portfolio-icon a {
+	font-size: 15px;
+	padding: 4px 10px;
+}
+.portfolio-content h4 {
+	font-size: 17px;
+}
+.portfolio-wrapper:hover .portfolio-content{
+	top: 70%;
+}
+.portfolio-content h4::before {
+	width: 66px;
+	top: 16%;
+}
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.slider-wrapper {
+	height: 500px;
+}
+.slider-content {
+	margin-top: 120px;
+}
+.slider-content h2 {
+	font-size: 42px;
+	line-height: 50px;
+}
+.slider-content p {
+	line-height: 22px;
+	margin-top: 15px;
+}
+.white-btn {
+	padding: 11px 18px;
+	font-size: 12px;
+}
+.cta-area h3 {
+	font-size: 21px;
+}
+.cta-area h3 span {
+	font-size: 20px;
+}
+.cta-btn {
+	position: absolute;
+	left: -7px;
+}
+.service-img img {
+	width: 100%;
+}
+.section-title h3 {
+	font-size: 40px;
+}
+.section-title p {
+	line-height: 23px;
+	margin-top: 9px;
+}
+.service-content h4 {
+	font-size: 22px;
+}
+p {
+	line-height: 23px;
+	margin-bottom: 11px;
+}
+.portfolio-img img {
+	width: 100%;
+}
+.single-brand {
+	margin-right: 100px;
+}
+.c-wrapper h4 {
+	font-size: 17px;
+}
+.culture-area a {
+  padding: 15px 12px;
+  font-size: 12px;
+}
+.service-content h4 {
+	margin-top: 20px;
+}
+.service-content p {
+	margin-top: 0px;
+}
+.portfolio-icon a {
+	margin-right: 8px;
+	font-size: 12px;
+	padding: 2px 4px;
+}
+.portfolio-icon {
+	left: 79%;
+	top: 9%;
+}
+.portfolio-content h4 {
+	font-size: 14px;
+}
+.portfolio-wrapper:hover .portfolio-content{
+	top: 70%;
+}
+.portfolio-content h4::before {
+	width: 59px;
+	top: 16%;
+}
+.ftc {
+	margin-bottom: 10px;
+}
+.nav-item {
+	text-align: center;
+}
+
+
+
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+ .header-top {
+	display: none;
+	visibility: hidden;
+	opacity: 0;
+}
+.slider-content h2 {
+	font-size: 29px;
+	line-height: 35px;
+}
+.slider-wrapper {
+	height: 430px;
+}
+.slider-content {
+	margin-top: 75px;
+}
+.cta-btn {
+	text-align: left;
+}
+.cta-area h3 {
+	font-size: 20px;
+}
+.cta-area h3 span {
+	font-size: 18px;
+}
+.cta-btn a {
+	padding: 8px 18px;
+	margin-top: 4px;
+}
+.section-title h3 {
+	font-size: 26px;
+}
+.section-title p {
+	line-height: 22px;
+	margin-top: 10px;
+}
+.service-img img {
+	width: 100%;
+}
+.service-content h4 {
+	margin-top: 25px;
+}
+.service-content p {
+	margin-top: 0px;
+	margin-bottom: 2px;
+}
+.builder-image img {
+	width: 100%;
+}
+.builder-image a {
+	bottom: 31%;
+	left: 41%;
+}
+.builder-content p {
+	width: 100%;
+	margin-top: 8px;
+}
+.portfolio-filter {
+	margin-bottom: 40px;
+	text-align: left;
+}
+.portfolio-filter ul li {
+	padding: 0px 8px;
+	margin-bottom: 10px;
+}
+.portfolio-img img {
+	width: 100%;
+}
+.portfolio-icon a {
+	margin-right: 8px;
+	font-size: 12px;
+	padding: 2px 4px;
+}
+.portfolio-icon {
+	left: 79%;
+	top: 9%;
+}
+.portfolio-content h4 {
+	font-size: 14px;
+}
+.portfolio-wrapper:hover .portfolio-content{
+	top: 70%;
+}
+.portfolio-content h4::before {
+	width: 59px;
+	top: 16%;
+}
+.single-testimonial{
+	display: block;
+}
+.testimonial-img img {
+	width: 100%;
+}
+.single-brand {
+	margin-right: 153px;
+	position: relative;
+	left: 23%;
+}
+.counter-wrapper {
+	margin-bottom: 15px;
+}
+.c-wrapper h4 {
+	font-size: 18px;
+}
+.c-wrapper p {
+	margin-top: 0px;
+}
+.nav-item {
+	text-align: center;
+}
+
+
+
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+.portfolio-content h4::before {
+	width: 60px;
+	top: 13%;
+}
+.portfolio-content h4 {
+	font-size: 20px;
+}
+.portfolio-icon a {
+	font-size: 15px;
+	padding: 8px 13px;
+}
+.portfolio-icon {
+	left: 76%;
+	top: 6%;
+}
+.testimonial-img img {
+	width: 100%;
+}
+
+
+
+}
